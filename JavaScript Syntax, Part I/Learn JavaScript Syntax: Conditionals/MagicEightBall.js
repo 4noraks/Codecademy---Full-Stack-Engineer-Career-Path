@@ -6,7 +6,7 @@ let eightBall = ""; //NOT USING IT
 //Zie Game
 userName ? console.log(`Hello, ${userName}!`) : console.log("Hello!");
 console.log(`The answer to "${userQuestion}" is:`);
-/*
+
 switch (randomNumber){
   case 0:
   console.log('It is certain');
@@ -33,7 +33,7 @@ switch (randomNumber){
   console.log('Signs point to yes');
   break;
 }
-*/
+/*
 if (randomNumber === 0){
   console.log('It is certain');
 }
@@ -58,3 +58,4 @@ else if (randomNumber === 6){
 else {
   console.log('Signs point to yes');
 }
+*/
