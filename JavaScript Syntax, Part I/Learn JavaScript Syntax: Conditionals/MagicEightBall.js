@@ -31,7 +31,7 @@ switch (randomNumber){
   break;
   case 7:
   console.log('Signs point to yes');
-  break;
+  break;1
 }
 */
 if (randomNumber === 0){
